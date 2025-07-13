@@ -15,10 +15,13 @@ This system allows an admin to:
 
 ---
 
+<img width="1029" height="669" alt="Screenshot 2025-07-13 181816" src="https://github.com/user-attachments/assets/3efde8b9-020e-4f43-ab50-1bcc2d9c5c94" />
+<img width="838" height="444" alt="Screenshot 2025-07-13 181232" src="https://github.com/user-attachments/assets/51b11d08-800a-4dc0-916c-685a8894da3f" />
+<img width="1859" height="902" alt="Screenshot 2025-07-13 181328" src="https://github.com/user-attachments/assets/32c41f9f-bfb0-4a21-8d36-ba3afda8f7e3" />
+<img width="1562" height="870" alt="Screenshot 2025-07-13 181759" src="https://github.com/user-attachments/assets/8ef24a5f-016d-46d2-8383-3501b03b9035" />
 
 
 
-https://github.com/user-attachments/assets/4d3466f5-f0ea-431a-b50a-2c752779f73c
 
 
 ## 🚀 Key Features
