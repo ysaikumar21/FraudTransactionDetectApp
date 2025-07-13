@@ -15,6 +15,12 @@ This system allows an admin to:
 
 ---
 
+
+
+
+https://github.com/user-attachments/assets/4d3466f5-f0ea-431a-b50a-2c752779f73c
+
+
 ## 🚀 Key Features
 
 🔐 **Admin Login** using session authentication  
@@ -81,19 +87,12 @@ IsFraud	bit
 
 📸 Screenshots (Add Yours Here)
 Login Page
-<img width="838" height="444" alt="Screenshot 2025-07-13 181232" src="https://github.com/user-attachments/assets/3cb78fee-5622-43bd-9f40-7e2d4c125145" />
-
 
 Add Transaction Page
-<img width="1029" height="669" alt="Screenshot 2025-07-13 181816" src="https://github.com/user-attachments/assets/94fd1e72-e7da-4220-844a-4e0752223cb0" />
-
 
 Transactions Table (Fraud Highlighted)
-![Uploading Screenshot 2025-07-13 181759.png…]()
-
 
 Dashboard with Monthly Chart
-<img width="1859" height="902" alt="Screenshot 2025-07-13 181328" src="https://github.com/user-attachments/assets/5bd23e20-a23d-4390-a9b2-9b7e98ccdc53" />
 
 
 🧪 How to Run This Project
